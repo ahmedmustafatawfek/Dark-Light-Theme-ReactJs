@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dark-Light-Theme-ReactJs/static/css/main.3be8484f.css",
+    "main.js": "/Dark-Light-Theme-ReactJs/static/js/main.e2020b5c.js",
+    "index.html": "/Dark-Light-Theme-ReactJs/index.html",
+    "main.3be8484f.css.map": "/Dark-Light-Theme-ReactJs/static/css/main.3be8484f.css.map",
+    "main.e2020b5c.js.map": "/Dark-Light-Theme-ReactJs/static/js/main.e2020b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be8484f.css",
+    "static/js/main.e2020b5c.js"
+  ]
+}
